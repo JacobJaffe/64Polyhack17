@@ -1,11 +1,7 @@
 import pyaudio
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.animation as animation
-from matplotlib import style
-import pylab
 import time
-import pyqtgraph as pg
 import sys
 
 
